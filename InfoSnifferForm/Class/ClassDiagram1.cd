@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="InfoSnifferForm.Class.BaseBbs">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kADBQAAAAkBAAAAQAQBIAAAAgAABEIAAAAAQBAAAAAA=</HashCode>
+      <FileName>Class\BaseBbs.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Config" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="InfoSnifferForm.Class.Discuz">
+    <Position X="3" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAIAAAAAAABAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Class\Discuz.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InfoSnifferForm.Class.PostInfo" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class\PostInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InfoSnifferForm.Class.UserInfo" Collapsed="true">
+    <Position X="10.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAQAAAAAAAAA=</HashCode>
+      <FileName>Class\UserInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InfoSnifferForm.Dvbbs">
+    <Position X="9" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAIAAAAAAABAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Dvbbs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InfoSnifferForm.BbsConfig">
+    <Position X="8.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAQAAAAkBAAAAAAABAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BbsConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InfoSnifferForm.BbsThread">
+    <Position X="2.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BbsThread.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InfoSnifferForm.ThreadContext">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEQAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ThreadContext.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Bbs" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="InfoSnifferForm.Bulk" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bulk.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>
